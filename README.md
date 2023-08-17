@@ -7,4 +7,5 @@ python3.8+
 pip install -r reques
 
 ### v2ex demo
-![Uploading v2ex.jpg… =140*200]()
+
+![v2ex](https://github.com/stars1324/community-wordcloud/assets/26533131/7dce83cc-a11a-4969-ba2a-ad438bffbbe4)
