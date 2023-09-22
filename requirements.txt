@@ -2,3 +2,4 @@ requests
 wordcloud
 matplotlib
 jieba
+lxml
